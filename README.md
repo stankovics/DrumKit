@@ -26,7 +26,7 @@ I finished first challenge from Javascript 30 from Wes Bos. Reason why I want to
 
 [forEach](https://www.w3schools.com/jsref/jsref_foreach.asp)
 
-[transitionend] (https://www.w3schools.com/jsref/event_transitionend.asp)
+[transitionend](https://www.w3schools.com/jsref/event_transitionend.asp)
 
 # Contributing
 
